@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/19 10:17:24.292,=D:\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/06/19 10:17:38.551,=D:\Projetos Delphi 11\Unit2.pas</Transaction>
+    <Transaction>2024/06/19 10:18:23.926,D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\Unit2.pas=D:\Projetos Delphi 11\Unit2.pas</Transaction>
+    <Transaction>2024/06/19 10:18:42.623,D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\Unit1.pas=D:\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/06/19 10:18:42.623,D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\Unit1.dfm=D:\Projetos Delphi 11\Unit1.dfm</Transaction>
+    <Transaction>2024/06/19 10:19:05.368,D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\DBConnection.pas=D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\Unit2.pas</Transaction>
+    <Transaction>2024/06/19 10:20:57.742,D:\Blog Delphi\projetos\Classe de Conexão de Banco de Dados\Project1.dproj=D:\Projetos Delphi 11\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
